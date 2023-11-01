@@ -3,7 +3,7 @@
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
-PancakeSwap Prediction Bot using live TradingView AI recomendations. **~70% Win rate**.
+PancakeSwap Prediction Bot using live TradingView AI recommendations. **~70% Win rate**.
 
 ## 🐰⚡ Installation
 
