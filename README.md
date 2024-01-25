@@ -1,5 +1,5 @@
   
-# 🔮 PancakeSwap Prediction AI Bot 2023 Updated
+# 🔮 PancakeSwap Prediction AI Bot 2024 Updated
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
@@ -10,7 +10,7 @@ PancakeSwap Prediction Bot using live TradingView AI recommendations. **~70% Win
 Download and Install Node here:
 https://nodejs.org/en/download/ 
 
-Then run the following commands in terminal:
+Then run the following commands in the terminal:
 
 1. ``git clone https://github.com/PancakeswapBotPrediction/PancakeswapPredictionBot-2023`` 
 2. ``cd PancakeswapPredictionBot-2023`` (replace with your cloned/downloaded bot folder)
