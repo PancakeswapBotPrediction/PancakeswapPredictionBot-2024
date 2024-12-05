@@ -1,5 +1,5 @@
   
-# 🔮 PancakeSwap Prediction AI Bot 2024 Updated
+# 🔮 PancakeSwap Prediction AI Bot 2025 Updated
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
@@ -12,8 +12,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in the terminal:
 
-1. ``git clone https://github.com/PancakeswapBotPrediction/PancakeswapPredictionBot-2024`` 
-2. ``cd PancakeswapPredictionBot-2024`` (replace with your cloned/downloaded bot folder)
+1. ``git clone https://github.com/PancakeswapBotPrediction/PancakeswapPredictionBot-2025`` 
+2. ``cd PancakeswapPredictionBot-2025`` (replace with your cloned/downloaded bot folder)
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
